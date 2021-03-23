@@ -1,0 +1,16 @@
+INFO: [HLS 200-10] Running 'E:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'Utente' on host 'desktop-o74am1s' (Windows NT_amd64 version 6.2) on Thu Mar 11 17:06:11 +0100 2021
+INFO: [HLS 200-10] In directory 'E:/VivadoHLS/Calcola'
+INFO: [HLS 200-10] Opening project 'E:/VivadoHLS/Calcola/Calcola'.
+INFO: [HLS 200-10] Opening solution 'E:/VivadoHLS/Calcola/Calcola/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg400-1'
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+
+****** Vivado v2018.3 (64-bit)
+  **** SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+  **** IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+source run_ippack.tcl -notrace
+INFO: [Common 17-206] Exiting Vivado at Thu Mar 11 17:06:19 2021...
