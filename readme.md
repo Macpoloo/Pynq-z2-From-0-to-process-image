@@ -12,7 +12,6 @@ Dettagli della scheda http://www.pynq.io/  http://www.pynq.io/board.html
 <h3> PIATTAFORME SOFTWARE </h3>  
 Vivado 2018.3/Vivado HLS 2018.3/Jupyter Notebook
 
-<h3>STRUTTURA DEI FILE</h3> 
 
 <h3>LIBRERIE UTILIZZATE IN PYTHON</h3> 
 Numpy/CV2
