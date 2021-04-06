@@ -18,10 +18,6 @@ Numpy/CV2
 
 <h3> RIGENERARE PROGETTO VIVADO(DMA) </h3>  
 
-Dma è un progetto base da cui partire per capire il funzionamento di Vivado e Vivado HLS e Vivado 2018.3.
-in questo progetto vengono fusi due IP in un unico overlay e sono una piccola ALU e un sistema che utilizzando il DMA 
-ci consente di caricare in memoria un vettore di numeri(o di tuple per il processamento immagini) e di riprenderlo modificato 
-grazie al settaggio della costante che andra a influenzare i valori del vettore stesso  v[i]*const .
 
 1.Per rigenerare il progetto MULT-CONST all'interno di DMA entra su vivado 2018.3  
 2.Andare sulla" tcl console" in basso alla main page di vivado  
@@ -30,9 +26,6 @@ grazie al settaggio della costante che andra a influenzare i valori del vettore 
 
 <h3> RIGENERARE PROGETTO VIVADO(vdma) </h3>  
 
-Vdma è un progetto che si basa su un'architettura video utilizzando IP e i moduli che fanno parte 
-di Vivado library .
-Questo design punta alla gestione ottimale dell'hdmi per leggere , scrivere e manipolare  flussi video.
 
 1.Per rigenerare il progetto hdmi.tcl all'interno di VDMA entra su vivado 2018.3  
 2.Andare sulla" tcl console" in basso alla main page di vivado  
