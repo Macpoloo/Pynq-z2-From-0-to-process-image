@@ -26,7 +26,7 @@ Numpy/CV2
 
 5.Le cartelle "Calcola" e "Mult_Constant" contengono i progetti 
   Vivado HLS utilizzati per generare i bitstream usati negli esempi.
-  Per aprire i progetti HLS fare doppio click con il mouse su i file ".app"
+  Per aprire i progetti HLS fare doppio click con il mouse sui rispettivi file ".app"
 
 
 <h3> RIGENERARE PROGETTO VIVADO 2018.3 (vdma) </h3>  
@@ -48,7 +48,7 @@ Numpy/CV2
 
 5.La cartella "filter2D" contiene il progetto Vivado HLS 
   utilizzato per generare i bitstream usati negli esempi.
-  Per aprire il progetoi HLS fare doppio click con il mouse sul file ".app"
+  Per aprire il progetto HLS fare doppio click con il mouse sul file ".app"
 
 <h3> JUPYTERNOTEBOOK</h3> 
 
