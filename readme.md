@@ -48,7 +48,7 @@ Numpy/CV2
 
 5.La cartella "filter2D" contiene il progetto Vivado HLS 
   utilizzato per generare i bitstream usati negli esempi.
-  Per aprire i progetti HLS fare doppio click con il mouse su i file ".app"
+  Per aprire il progetoi HLS fare doppio click con il mouse sul file ".app"
 
 <h3> JUPYTERNOTEBOOK</h3> 
 
