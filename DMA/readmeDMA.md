@@ -5,7 +5,7 @@ Il design è stato il punto di partenza per l'apprendimento del sistema vivado e
 
 il design offre due funzionalità :
 
-1)ALU
+1)ALU(arithmetic and logic unit) 
 
 2)Funzionamenamento del DMA che consiste nella memorizzazione di un buffer in memoria
   per poi manipolarlo moltiplicandogli una costante e in fine stamparlo tramite notebook
