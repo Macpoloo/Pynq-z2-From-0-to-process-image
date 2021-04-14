@@ -54,6 +54,6 @@ Numpy/CV2
 
 <h3> JUPYTER NOTEBOOK</h3> 
 
-Ogni progetto contiene due cartelle.La cartella bitstream racchiude i file che servono a far funzionare l'overlay dal momento che contengono la sintesi del design vivado infatti un dispositivo FPGA Xilinx deve essere programmato utilizzando un bitstream specifico affinché si comporti come una piattaforma hardware incorporata(.tcl,.bit,.hwh).
-La cartella notebook contiene i file python che servono per interfacciarsi con l'hardware descritto all'interno del bitstream.
-questi file devono essere caricati all'interno dell'ambiente JUPYTER NOTEBOOK per poterli eseguire.
+Ogni progetto contiene due cartelle.La cartella bitstream racchiude i file che servono a far funzionare l'overlay dal momento che contengono la sintesi del design vivado .Un dispositivo FPGA infatti deve essere programmato utilizzando un bitstream specifico affinché si comporti come una piattaforma hardware incorporata(.tcl,.bit,.hwh).
+La cartella notebook contiene i file con codice python che servono per interfacciarsi con l'hardware descritto all'interno del bitstream.
+I file contenuti nell cartelle menzionate sopra , devono essere caricati all'interno dell'ambiente JUPYTER NOTEBOOK per poterli eseguire.
